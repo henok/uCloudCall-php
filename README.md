@@ -1,7 +1,7 @@
 # uCloudCall-php
 PHP utilities for using uCloudCall.com services
 
-To run this example, you must first sign-up for a uCloudCall.com service @ https://app.ucCloudCall.com/ 
+To run this example, you must first sign-up for a uCloudCall.com service @ https://app.uCloudCall.com/ 
 
 <br />
 
